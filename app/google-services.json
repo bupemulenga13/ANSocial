@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "233960138711",
+    "firebase_url": "https://an-social.firebaseio.com",
+    "project_id": "an-social",
+    "storage_bucket": "an-social.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233960138711:android:302ad4e1706c5dc7a38d92",
+        "android_client_info": {
+          "package_name": "com.example.ansocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233960138711-smh60hojpv0l9nu683fst7as0d4fl0ai.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ansocial",
+            "certificate_hash": "306623b09ddca261a0a18cc16455c6c907b902a9"
+          }
+        },
+        {
+          "client_id": "233960138711-8t8iffn9qmjldg8tv9tmjeclrbal14ik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAllYEe6_evZ3Fo85fdm-Jpq1OuPcBwT80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233960138711-8t8iffn9qmjldg8tv9tmjeclrbal14ik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

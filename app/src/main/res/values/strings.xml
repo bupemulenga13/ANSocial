@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">AN Social</string>
+
+
+    <!-- Main Activity -->
+    <string name="app_logo">Asikana Network</string>
+    <string name="app_motto">Woman, African, Capable</string>
+
+    <!--  Profile Activity  -->
+    <string name="label_profile">My Profile</string>
+    <string name="label_full_name">Full Name</string>
+    <string name="label_display_name"> "@"Display Name</string>
+    <string name="label_bio">Enter a brief bio about yourself</string>
+    <string name="label_image"> Insert Profile Picture</string>
+    <string name="label_mentor">Mentor</string>
+    <string name="label_spaces">Spaces</string>
+    <string name="label_posts">Posts</string>
+    <string name="label_email_address">Email Address</string>
+    <string name="occupation">Occupation</string>
+    <string name="label_phone_address">Contact</string>
+    <string name="label_location">Location</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_sign_out">Sign Out</string>
+    <string name="menu_edit_profile">Edit Profile</string>
+    <string name="menu_delete_account">Delete Account</string>
+
+<!--Edit Profile-->
+    <string name="action_save">Save</string>
+    <string name="label_upload_profile_pic">Upload profile picture</string>
+    <string name="label_edit_profile">Edit your profile</string>
+    <string name="action_cancel">Cancel</string>
+
+</resources>
